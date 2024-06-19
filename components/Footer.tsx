@@ -6,7 +6,7 @@ import { link } from "fs";
 
 const Footer = () => {
   return (
-    <footer className="flexCenter mb-24">
+    <footer className="flexCenter mb-24 bg-slate-100">
       <div className="padding-container flex w-full flex-col gap-14">
         <div className="flex flex-col items-start justify-center gap-[10%] md:flex-row">
           <Link href="/" className="mb-10">
